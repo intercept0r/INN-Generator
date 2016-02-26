@@ -1,6 +1,8 @@
+#pragma comment(linker,"/NODEFAULTLIB")
+#pragma comment(linker,"/ENTRY:WinMain")
 #include <windows.h>
 #include "resource.h"
-//#include <cstdlib>
+
 
 
 
